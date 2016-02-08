@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [08/Feb/2016:02:22:43 +0100] "GET /chatter/ HTTP/1.1" 200 137 http-bio-9966-exec-1 238
+0:0:0:0:0:0:0:1 - - [08/Feb/2016:02:22:56 +0100] "GET /chatter/api/user HTTP/1.1" 200 217 http-bio-9966-exec-4 391
+0:0:0:0:0:0:0:1 - - [08/Feb/2016:02:23:09 +0100] "GET /chatter/api/user HTTP/1.1" 200 217 http-bio-9966-exec-8 132
